@@ -1,2 +1,8 @@
 # cancan
 cancan
+# https://tea.xyz/what-is-this-file
+---
+version: 1.0.0
+codeOwners:
+  - '0x044fE15B4f803EdF1A70137A6fD6F8144a2058D6'
+quorum: 1
